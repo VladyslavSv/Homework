@@ -1,0 +1,19 @@
+c:\users\skly_sz20\documents\visual studio 2017\Projects\RemoteTaskManager\RemoteTaskManager\bin\Debug\RemoteTaskManager.exe.config
+c:\users\skly_sz20\documents\visual studio 2017\Projects\RemoteTaskManager\RemoteTaskManager\bin\Debug\RemoteTaskManager.exe
+c:\users\skly_sz20\documents\visual studio 2017\Projects\RemoteTaskManager\RemoteTaskManager\bin\Debug\RemoteTaskManager.pdb
+c:\users\skly_sz20\documents\visual studio 2017\Projects\RemoteTaskManager\RemoteTaskManager\obj\Debug\RemoteTaskManager.csprojResolveAssemblyReference.cache
+c:\users\skly_sz20\documents\visual studio 2017\Projects\RemoteTaskManager\RemoteTaskManager\obj\Debug\RemoteTaskManager.Form1.resources
+c:\users\skly_sz20\documents\visual studio 2017\Projects\RemoteTaskManager\RemoteTaskManager\obj\Debug\RemoteTaskManager.Properties.Resources.resources
+c:\users\skly_sz20\documents\visual studio 2017\Projects\RemoteTaskManager\RemoteTaskManager\obj\Debug\RemoteTaskManager.csproj.GenerateResource.Cache
+c:\users\skly_sz20\documents\visual studio 2017\Projects\RemoteTaskManager\RemoteTaskManager\obj\Debug\RemoteTaskManager.csproj.CoreCompileInputs.cache
+c:\users\skly_sz20\documents\visual studio 2017\Projects\RemoteTaskManager\RemoteTaskManager\obj\Debug\RemoteTaskManager.exe
+c:\users\skly_sz20\documents\visual studio 2017\Projects\RemoteTaskManager\RemoteTaskManager\obj\Debug\RemoteTaskManager.pdb
+C:\Users\sklua\Desktop\RemoteTaskManager\RemoteTaskManager\bin\Debug\RemoteTaskManager.exe.config
+C:\Users\sklua\Desktop\RemoteTaskManager\RemoteTaskManager\bin\Debug\RemoteTaskManager.exe
+C:\Users\sklua\Desktop\RemoteTaskManager\RemoteTaskManager\bin\Debug\RemoteTaskManager.pdb
+C:\Users\sklua\Desktop\RemoteTaskManager\RemoteTaskManager\obj\Debug\RemoteTaskManager.csprojResolveAssemblyReference.cache
+C:\Users\sklua\Desktop\RemoteTaskManager\RemoteTaskManager\obj\Debug\RemoteTaskManager.Form1.resources
+C:\Users\sklua\Desktop\RemoteTaskManager\RemoteTaskManager\obj\Debug\RemoteTaskManager.Properties.Resources.resources
+C:\Users\sklua\Desktop\RemoteTaskManager\RemoteTaskManager\obj\Debug\RemoteTaskManager.csproj.GenerateResource.Cache
+C:\Users\sklua\Desktop\RemoteTaskManager\RemoteTaskManager\obj\Debug\RemoteTaskManager.exe
+C:\Users\sklua\Desktop\RemoteTaskManager\RemoteTaskManager\obj\Debug\RemoteTaskManager.pdb
